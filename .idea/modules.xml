@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Interview/Interview.iml" filepath="$PROJECT_DIR$/Interview/Interview.iml" />
       <module fileurl="file://$PROJECT_DIR$/MPP.iml" filepath="$PROJECT_DIR$/MPP.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/MPPStandardTest201705/MPPStandardTest201705.iml" filepath="$USER_HOME$/Downloads/Compressed/MPPStandardTest201705/MPPStandardTest201705.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidtermExamPart2Q1/MidtermExamPart2Q1.iml" filepath="$PROJECT_DIR$/MidtermExamPart2Q1/MidtermExamPart2Q1.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/Starter-Code-for-Part2/Starter-Code-for-Part2.iml" filepath="$USER_HOME$/Downloads/Compressed/Starter-Code-for-Part2/Starter-Code-for-Part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/labs.iml" filepath="$PROJECT_DIR$/labs/labs.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/practice-exercise-lambdas-n-streams/practice-exercise-lambdas-n-streams/practice-exercise-lambdas-n-streams.iml" filepath="$USER_HOME$/Downloads/Compressed/practice-exercise-lambdas-n-streams/practice-exercise-lambdas-n-streams/practice-exercise-lambdas-n-streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quiz2/quiz2.iml" filepath="$PROJECT_DIR$/quiz2/quiz2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/second/second.iml" filepath="$PROJECT_DIR$/second/second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socials/socials.iml" filepath="$PROJECT_DIR$/socials/socials.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/starter-code-for-sorting-books-data-by-publishers-and-title/starter-code-for-sorting-books-data-by-publishers-and-title.iml" filepath="$USER_HOME$/Downloads/Compressed/starter-code-for-sorting-books-data-by-publishers-and-title/starter-code-for-sorting-books-data-by-publishers-and-title.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tutorial.test.iml" filepath="$PROJECT_DIR$/.idea/modules/tutorial.test.iml" />
     </modules>
   </component>
 </project>
