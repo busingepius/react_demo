@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: first-deployment
+  labels:
+    app: first-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: first-deployment
+  template:
+    metadata:
+      name: first-deployment
+      labels:
+        app: first-deployment
+    spec:
+      containers:
+        - name: first-deployment
+          image: nginx
+          imagePullPolicy: IfNotPresent
+      restartPolicy: Always
+      
