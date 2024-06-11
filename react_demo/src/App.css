@@ -1,0 +1,54 @@
+
+.post{
+  color:red;
+  height:150.0px;
+  width:25.0%;
+  background-color: blue;
+}
+
+.post-container{
+  display:flex;
+  flex-direction: row;
+  flex-wrap:wrap;
+  column-gap: 10.0px;
+  row-gap:20.0px;
+  width:100%;
+  text-align: start;
+  font-size: 11px;
+}
+
+.content{
+  align-self: start;
+}
+
+.textInput{
+  display:flex;
+  flex-direction: column;
+  row-gap:8px;
+  height:20px;
+  width:25.0%;
+}
+
+.border{
+  border:solid 3px blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  text-align: center;
+}
+section{
+  display: flex;
+  flex-direction:column;
+  align-content: center;
+  margin: 50px 100px;
+  row-gap:15px
+}
+
+.text_button{
+  text-decoration: underline;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  column-gap:10px;
+  color: red;
+}
